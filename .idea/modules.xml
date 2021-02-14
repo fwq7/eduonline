@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commom/api_swagger/api_swagger.iml" filepath="$PROJECT_DIR$/commom/api_swagger/api_swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/commom.iml" filepath="$PROJECT_DIR$/commom/commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eduonline.iml" filepath="$PROJECT_DIR$/eduonline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/qqlogin/qqlogin.iml" filepath="$PROJECT_DIR$/commom/qqlogin/qqlogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_eduonline/service_eduonline.iml" filepath="$PROJECT_DIR$/service/service_eduonline/service_eduonline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/utils/utils.iml" filepath="$PROJECT_DIR$/commom/utils/utils.iml" />
+    </modules>
+  </component>
+</project>
